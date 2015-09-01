@@ -1,3 +1,9 @@
+/* 
+* @Author David Hargat
+* @Date 8/31/2015
+* @Description Simple database made for Recurse Center interview.
+*/
+
 var http = require("http");
 
 // port the server is listening on
